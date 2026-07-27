@@ -1,0 +1,64 @@
+site_name: AI Best Practices
+site_description: A curated collection of best practices, notes, and links for working with AI.
+site_url: https://leyffer.github.io/BestPractices4AI/
+
+repo_url: https://github.com/leyffer/BestPractices4AI
+repo_name: leyffer/BestPractices4AI
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+  - Prompt Engineering:
+      - System Prompts: prompt-eng/system-prompts.md
+      - Few-Shot Guides: prompt-eng/few-shot-guides.md
+  - Development:
+      - Agent Design: development/agent-design.md
+      - Evaluation: development/evaluation.md
+  - Security:
+      - Data Privacy: security/data-privacy.md
+  - Resources:
+      - Links: resources/links.md
