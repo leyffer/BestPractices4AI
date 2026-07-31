@@ -11,7 +11,7 @@ A curated, evolving collection of best practices, notes, and links for working w
 
 ## Argonne-Specific Resources 
 
-These Argonne-specific resources require Argonne login.
+These Argonne-specific resources *require Argonne login*.
 
 - **[Argo API Documentation](https://anl.app.box.com/notes/1444961193376?s=ubtrsefonqeo9xppdzcurezy8rzsbs96)** — connecting to argo/API
-- **[Vibe Coding with Argo](https://anl.app.box.com/notes/1871610644419?s=hxc72dkm0a8mlmo7ownfl4ixwx6iu3ko)** — using argo with tools such as claude, opencode, VSCode, aider, ... 
+- **[Vibe Coding with Argo](https://anl.app.box.com/notes/1871610644419?s=hxc72dkm0a8mlmo7ownfl4ixwx6iu3ko)** — using argo with claude, opencode, VSCode, aider, ... 
