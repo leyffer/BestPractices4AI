@@ -35,7 +35,7 @@ practices, notes, and links for working with AI."
 
 ## File Structure (session bookkeeping)
 
-Maintain the following file structure:
+These bookkeeping files all live in the `.claude/` directory (paths below are relative to it):
 
 - `CLAUDE.md`: this file, as an overview.
 - `LOGBOOK.md`: a short summary of each session, with links to `plans/`.
