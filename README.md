@@ -24,3 +24,7 @@ mkdocs build --strict
 Pushing to `main` triggers the GitHub Actions workflow (`.github/workflows/deploy.yml`), which runs `mkdocs gh-deploy` to publish the site to the `gh-pages` branch.
 
 > **One-time setup:** after the first successful workflow run, go to **Settings → Pages** and set the source to the **`gh-pages` branch** so the site goes live.
+
+## Claude integration
+
+See [.claude](.claude/) contains the usual `CLAUDE.md` and other useful files for working with claude on this project,
