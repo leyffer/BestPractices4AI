@@ -15,6 +15,13 @@ _Last updated: 2026-08-01_
 - **Security:** `docs/security/data-privacy.md`
 - **Resources:** `docs/resources/links.md`
 
+## Verified
+
+- **Maintenance files do not affect the site build (2026-08-01):** `mkdocs build` generates only the
+  6 real docs pages (+ `index.html`, `404.html`). `CLAUDE.md`, `LOGBOOK.md`, `STATUS.md`, and
+  `plans/` live outside `docs_dir` (`docs/`), so MkDocs never picks them up — they produce no pages,
+  no `sitemap.xml` entries, and no search-index entries. They are git-maintenance artifacts only.
+
 ## Pending / Next Steps
 
 - None currently. Flesh out content pages as needed.
