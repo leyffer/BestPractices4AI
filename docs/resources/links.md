@@ -2,6 +2,10 @@
 
 A curated list of tools, papers, and links for working with AI.
 
+## Tools and Courses
+
+Tools and courses.
+
 - **[Claude Code 101 Hackathon](https://github.com/wilke/claude-code-101)** — Claude Code as a co-scientist: workshop
 
 ## Argonne-Specific Resources 
@@ -14,3 +18,8 @@ These Argonne-specific resources *require Argonne login*.
 - **[Vibe Coding with Argo](https://anl.app.box.com/notes/1871610644419?s=hxc72dkm0a8mlmo7ownfl4ixwx6iu3ko)** — using argo with claude, opencode, VSCode, aider, ...
 - **[Vibe Coding Hackathon](https://anl.app.box.com/s/iva9qhm478a29pt3lt4yy53ubhdrs239)** — 2025 Vibe Coding Workshop at Argonne
 
+## News
+
+Noteworthy news items (with dates)
+
+- [08/01/26: OpenAI - Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
