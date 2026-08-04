@@ -23,3 +23,4 @@ These Argonne-specific resources *require Argonne login*.
 Noteworthy news items (with dates)
 
 - [08/01/26: OpenAI - Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- [06/02/26: Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
